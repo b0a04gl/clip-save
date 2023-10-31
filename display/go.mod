@@ -1,6 +1,6 @@
 module display
 
-go 1.21.3
+go 1.21
 
 require (
 	fyne.io/fyne v1.4.3
